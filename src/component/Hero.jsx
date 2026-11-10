@@ -2,7 +2,7 @@ import React from "react";
 
 export const Hero = () => {
   return (
-    <div className="justify-items-center p-30 px-70">
+    <div className="hero-section justify-items-center p-30 px-70">
       <p>BLOG</p>
       <h1 className=" text-6xl">Notes from the field.</h1>
       <p className="m-10 text-gray-500 text-xl">

@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div>
-      <div className="mt-15 flex  gap-10  px-5">
+    <div className="site-footer">
+      <div className="footer-columns mt-15 flex  gap-10  px-5">
         <hr className="text-gray-200 mb-15" />
         <div className="flex flex-col gap-5 w-100 text-gray-500">
           <img

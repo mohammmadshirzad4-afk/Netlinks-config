@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <nav className="bg-white/10 backdrop-blur-md text-black px-15 py-6 fixed top-0 left-0 w-full z-50">
+    <nav className="site-nav bg-white/10 backdrop-blur-md text-black px-15 py-6 fixed top-0 left-0 w-full z-50">
       <div className="flex place-content-between items-center">
         <div>
           <img

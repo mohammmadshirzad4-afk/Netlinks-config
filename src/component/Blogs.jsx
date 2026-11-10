@@ -2,7 +2,7 @@ import React from "react";
 
 export const Blogs = () => {
   return (
-    <div className=" bg-gray-50 flex flex-col gap-10 pt-10">
+    <div className="blog-list bg-gray-50 flex flex-col gap-10 pt-10">
       <div className="mx-50  p-8 bg-white rounded-2xl pr-65  ">
         <p className="text-violet-300"> 2026-05-29 · 10 min read · Odoo</p>
         <h1 className="text-3xl">
